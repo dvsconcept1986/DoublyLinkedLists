@@ -130,7 +130,7 @@
     <ClCompile Include="DoublyLinkedLists.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="..\..\..\..\Downloads\DList\DList.h" />
+    <ClInclude Include="DList.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
